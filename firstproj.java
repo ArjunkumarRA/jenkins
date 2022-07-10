@@ -3,5 +3,6 @@ public class firstproj{
   // TODO Auto-generated method stub
     System.out.println("Hello Agni");
     System.out.println("hello");
+    System.out.println("hello");
  }
 }
