@@ -15,4 +15,4 @@ n=5
 def test_num():
     assert type(n) == int
 def test_size():
-    assert n!=5
+    assert n==5
